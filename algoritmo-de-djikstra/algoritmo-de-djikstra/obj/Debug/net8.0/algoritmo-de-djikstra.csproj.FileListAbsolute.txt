@@ -1,0 +1,14 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\bin\Debug\net8.0\algoritmo-de-djikstra.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\bin\Debug\net8.0\algoritmo-de-djikstra.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\bin\Debug\net8.0\algoritmo-de-djikstra.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\bin\Debug\net8.0\algoritmo-de-djikstra.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\bin\Debug\net8.0\algoritmo-de-djikstra.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\refint\algoritmo-de-djikstra.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\algoritmo-de-djikstra.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\algoritmo-de-djikstra\algoritmo-de-djikstra\obj\Debug\net8.0\ref\algoritmo-de-djikstra.dll

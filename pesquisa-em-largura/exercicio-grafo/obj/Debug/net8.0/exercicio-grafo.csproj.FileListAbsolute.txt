@@ -1,0 +1,14 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\bin\Debug\net8.0\exercicio-grafo.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\bin\Debug\net8.0\exercicio-grafo.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\bin\Debug\net8.0\exercicio-grafo.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\bin\Debug\net8.0\exercicio-grafo.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\bin\Debug\net8.0\exercicio-grafo.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\refint\exercicio-grafo.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\exercicio-grafo.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\exercicio-grafo\exercicio-grafo\obj\Debug\net8.0\ref\exercicio-grafo.dll
