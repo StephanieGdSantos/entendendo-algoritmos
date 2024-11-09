@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj": {}
+    "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj": {
+    "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj",
+        "projectUniqueName": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj",
         "projectName": "programacao-dinamica",
-        "projectPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj",
+        "projectPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj",
         "packagesPath": "C:\\Users\\Stephanie Gomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\programacao-dinamica\\programacao-dinamica\\obj\\",
+        "outputPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stephanie Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",

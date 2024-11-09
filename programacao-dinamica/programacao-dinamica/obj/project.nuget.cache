@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIUkARyz+U4=",
+  "dgSpecHash": "7gv4MTcv8F8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj",
+  "projectFilePath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\programacao-dinamica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stephanie Gomes\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Stephanie Gomes\\.nuget\\packages\\enums.net\\4.0.1\\enums.net.4.0.1.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programacao-dinamica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698c62b630d4c9ac7e9bc7c560f4f71a857479a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("programacao-dinamica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programacao-dinamica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
