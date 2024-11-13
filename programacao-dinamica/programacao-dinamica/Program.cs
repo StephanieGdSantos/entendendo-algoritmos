@@ -1,7 +1,4 @@
-﻿using NPOI.Util.ArrayExtensions;
-using programacao_dinamica.Model;
-using programacao_dinamica.Utils;
-using System.Linq;
+﻿using programacao_dinamica.Model;
 
 var itens = new List<Item>()
 {
@@ -20,42 +17,62 @@ var pesos = itens
     .Order()
     .ToList();
 
-Item[,] tabelaMochilas = new Item[itens.Count, pesos.Count];
+var tabelaMochilas = new List<Item>[itens.Count, pesos.Count];
+/*for (int i = 0; i < itens.Count; i++)
+{
+    tabelaMochilas[i] = new List<Item>[numColunas];
+    for (int j = 0; j < numColunas; j++)
+    {
+        tabelaMochilas[i][j] = new List<Item>();
+    }
+}*/
 
 var itemVazio = new Item { nome = "", importancia = 0, peso = 0 };
 
 float importanciaDoItemDeCima, importanciaDoItemAtual;
-for (int i = 0; i < itens.Count; i++)
+
+for (int linha = 0; linha < itens.Count; linha++)
 {
-    var itemAtual = itens[i];
-    for (int j = 0; j < pesos.Count; j++)
+    var itemAtual = itens[linha];
+    for (int coluna = 0; coluna < pesos.Count; coluna++)
     {
-        var pesoDaMochilaAtual = pesos[j];
-
-        var itemDeCima = i != 0 ? tabelaMochilas[i - 1, j] : itemVazio;
-
-        if (i != 0 && itemAtual.peso <= pesoDaMochilaAtual && itemDeCima.nome != null)
+        var capacidadeDaMochilaAtual = pesos[coluna];
+        if (tabelaMochilas[linha, coluna] == null)
         {
+            tabelaMochilas[linha, coluna] = new List<Item>();
+        }
+        if (linha != 0)
+        {
+            var mochilaDeCima = tabelaMochilas[linha - 1, coluna];
+            var itemComPesoAproximadoDoItemAtual = mochilaDeCima.FirstOrDefault(item => item.peso <= itemAtual.peso) != null ? mochilaDeCima.FirstOrDefault(item => item.peso <= itemAtual.peso) : null;
 
-            if (pesoDaMochilaAtual - itemDeCima.peso >= itemAtual.peso)
+            if (mochilaDeCima.Count != 0)
             {
-                tabelaMochilas[i, j] = new Item { nome = itemAtual.nome, importancia = itemAtual.importancia, peso = itemAtual.peso };
-            }
-            else if (itemAtual.importancia > itemDeCima.importancia)
-            {
-                tabelaMochilas[i, j] = new Item { nome = itemAtual.nome, importancia = itemAtual.importancia, peso = itemAtual.peso };
+                if (capacidadeDaMochilaAtual - mochilaDeCima.Sum(item => item.peso) >= itemAtual.peso)
+                {
+                    mochilaDeCima.ForEach(item => tabelaMochilas[linha,coluna].Add(item));
+                    tabelaMochilas[linha,coluna].Add(itemAtual);
+                }
+                else if (itemComPesoAproximadoDoItemAtual != null && capacidadeDaMochilaAtual - mochilaDeCima.Sum(item => item.peso) >= itemAtual.peso && itemComPesoAproximadoDoItemAtual.importancia < itemAtual.importancia)
+                {
+                    tabelaMochilas[linha,coluna].Add(itemAtual);
+                }
+                else
+                {
+                    mochilaDeCima.ForEach(item => tabelaMochilas[linha, coluna].Add(item));
+                }
             }
             else
             {
-                tabelaMochilas[i, j] = itemDeCima;
+                tabelaMochilas[linha, coluna].Add(itemAtual);
             }
         }
         else
         {
-            if (itemAtual.peso <= pesoDaMochilaAtual)
-                tabelaMochilas[i, j] = new Item { nome = itemAtual.nome, importancia = itemAtual.importancia, peso = itemAtual.peso };
-            else
-                tabelaMochilas[i, j] = itemVazio;
+            if (itemAtual.peso <= capacidadeDaMochilaAtual)
+            {
+                tabelaMochilas[linha,coluna].Add(itemAtual);
+            }
         }
     }
 }
