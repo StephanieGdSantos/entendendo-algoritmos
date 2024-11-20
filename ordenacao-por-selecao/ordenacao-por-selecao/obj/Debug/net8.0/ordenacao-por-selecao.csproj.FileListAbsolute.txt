@@ -1,0 +1,15 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\bin\Debug\net8.0\ordenacao-por-selecao.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\bin\Debug\net8.0\ordenacao-por-selecao.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\bin\Debug\net8.0\ordenacao-por-selecao.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\bin\Debug\net8.0\ordenacao-por-selecao.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\bin\Debug\net8.0\ordenacao-por-selecao.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.sourcelink.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\refint\ordenacao-por-selecao.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ordenacao-por-selecao.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-por-selecao\ordenacao-por-selecao\obj\Debug\net8.0\ref\ordenacao-por-selecao.dll
