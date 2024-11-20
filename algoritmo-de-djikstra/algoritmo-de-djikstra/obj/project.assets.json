@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\algoritmo-de-djikstra\\algoritmo-de-djikstra\\algoritmo-de-djikstra.csproj",
+      "projectUniqueName": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\algoritmo-de-djikstra\\algoritmo-de-djikstra\\algoritmo-de-djikstra.csproj",
       "projectName": "algoritmo-de-djikstra",
-      "projectPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\algoritmo-de-djikstra\\algoritmo-de-djikstra\\algoritmo-de-djikstra.csproj",
+      "projectPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\algoritmo-de-djikstra\\algoritmo-de-djikstra\\algoritmo-de-djikstra.csproj",
       "packagesPath": "C:\\Users\\Stephanie Gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\algoritmo-de-djikstra\\algoritmo-de-djikstra\\obj\\",
+      "outputPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\algoritmo-de-djikstra\\algoritmo-de-djikstra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stephanie Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",

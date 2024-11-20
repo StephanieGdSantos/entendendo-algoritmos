@@ -1,0 +1,15 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\bin\Debug\net8.0\pesquisa-binaria.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\bin\Debug\net8.0\pesquisa-binaria.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\bin\Debug\net8.0\pesquisa-binaria.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\bin\Debug\net8.0\pesquisa-binaria.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\bin\Debug\net8.0\pesquisa-binaria.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.sourcelink.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\refint\pesquisa-binaria.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\pesquisa-binaria.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\pesquisa-binaria\pesquisa-binaria\obj\Debug\net8.0\ref\pesquisa-binaria.dll

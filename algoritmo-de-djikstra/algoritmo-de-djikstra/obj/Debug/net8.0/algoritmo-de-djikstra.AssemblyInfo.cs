@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("algoritmo-de-djikstra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d779089737db44f59de67e3ce9b0530c1356c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("algoritmo-de-djikstra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("algoritmo-de-djikstra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
