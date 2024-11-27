@@ -1,0 +1,15 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\bin\Debug\net8.0\subsequencia-mais-longa.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\bin\Debug\net8.0\subsequencia-mais-longa.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\bin\Debug\net8.0\subsequencia-mais-longa.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\bin\Debug\net8.0\subsequencia-mais-longa.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\bin\Debug\net8.0\subsequencia-mais-longa.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.sourcelink.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\refint\subsequencia-mais-longa.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\subsequencia-mais-longa.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\subsequencia-mais-longa\subsequencia-mais-longa\obj\Debug\net8.0\ref\subsequencia-mais-longa.dll

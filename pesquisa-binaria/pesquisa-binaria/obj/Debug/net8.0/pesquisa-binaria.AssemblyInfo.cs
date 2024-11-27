@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pesquisa-binaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d779089737db44f59de67e3ce9b0530c1356c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29721f235ee27da50920bb0f3b189542dd4ae67c")]
 [assembly: System.Reflection.AssemblyProductAttribute("pesquisa-binaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pesquisa-binaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
