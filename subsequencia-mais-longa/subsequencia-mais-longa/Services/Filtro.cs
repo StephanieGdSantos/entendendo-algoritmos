@@ -22,5 +22,26 @@ namespace subsequencia_mais_longa.Services
             return maiorNumero;
         }
 
+        public static int[,] PegarTrechoDoArray(int[,] array, int linhaInicio, int colunas, int linhas, int linhaDoItem, int colunaDoItem)
+        {
+            var trecho = new int[linhas, colunas];
+            var linhaTrecho = 0;
+            var colunaTrecho = 0;
+
+            for (int k = linhaInicio - 1; k < linhaInicio + 1; k++)
+            {
+                for (int l = 1; l < colunas; l++)
+                {
+                    if (l == linhaDoItem && k == colunaDoItem)
+                        break;
+                    trecho[linhaTrecho, colunaTrecho] = array[l, k];
+                    colunaTrecho++;
+                }
+                linhaTrecho++;
+                colunaTrecho = 0;
+            }
+
+            return trecho;
+        }
     }
 }
