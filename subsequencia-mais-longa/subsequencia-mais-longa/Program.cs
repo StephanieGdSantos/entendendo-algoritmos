@@ -9,30 +9,13 @@ var palavrasDisponiveis = new string[]
     "cinto", "instante", "tinta", "vinho"
 };
 
-Console.WriteLine("Como deseja fazer a busca? \n[ 1 ] Maior substring comum \n[ 2 ] Proporção mais semelhante");
-var tipoDeBusca = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Insira a palavra que deseja encontrar:");
+Console.Write("Insira a palavra que deseja encontrar: ");
 var palavraProcurada = Console.ReadLine();
 
-string palavraMaisProxima = "";
-if (tipoDeBusca == 1)
-{
-    palavraMaisProxima = Buscador.BuscarPorMaiorStringComum(palavrasDisponiveis, palavraProcurada);
-}
-else if (tipoDeBusca == 2)
-{
-    palavraMaisProxima = Buscador.BuscarPorMaiorProporcaoSemelhante(palavrasDisponiveis, palavraProcurada);
-}
-else
-{
-    while (tipoDeBusca != 0 && tipoDeBusca != 1)
-    {
-        Console.Clear();
-        Console.WriteLine("[ ESCOLHA NÃO RECONHECIDA ]");
-        Console.WriteLine("Como deseja fazer a busca? \n[ 1 ] Maior substring comum \n[ 2 ] Proporção mais semelhante");
-        tipoDeBusca = int.Parse(Console.ReadLine());
-    }
-}
+var palavraMaisProxima = Buscador.BuscarPorMaiorStringComum(palavrasDisponiveis, palavraProcurada); ;
+var palavraProporcionalmenteMaisProxima = Buscador.BuscarPorMaiorProporcaoSemelhante(palavrasDisponiveis, palavraProcurada);
 
-Console.WriteLine($"Você estava procurando por _{palavraMaisProxima}_?");
+if (palavraMaisProxima != palavraProporcionalmenteMaisProxima)
+    Console.WriteLine($"Você estava procurando por _{palavraMaisProxima}_ ou _{palavraProporcionalmenteMaisProxima}_?");
+else
+    Console.WriteLine($"Você estava procurando por _{palavraMaisProxima}_?");
