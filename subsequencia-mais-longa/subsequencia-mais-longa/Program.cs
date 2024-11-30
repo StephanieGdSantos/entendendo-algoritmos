@@ -12,39 +12,75 @@ List<string> palavrasDisponiveis = new List<string>
 Console.WriteLine("Insira a palavra que deseja encontrar:");
 var palavraProcurada = Console.ReadLine();
 
-var palavraProcuradaDividida = palavraProcurada.Split();
-
-string palavraMaisProxima = palavrasDisponiveis[0];
-int subsequenciaMaisLonga = 0;
-string[] palavraAtualDividida;
-var letrasProcuradasNaPalavra = new List<char>();
-int quantidadeDeLetrasEmComum;
-var linha = 1;
-var coluna = 1;
+int linha = 1;
+int coluna = 1;
+var letrasProcuradas = new List<char>();
+var palavraMaisProxima = palavrasDisponiveis.FirstOrDefault();
+var valorPalavraMaisProxima = 0;
 
 foreach (var palavra in palavrasDisponiveis)
 {
-    var subsequenciaComum = new int[palavraProcurada.Length + 1, palavra.Length];
+    var subsequenciaComum = new int[palavraProcurada.Length + 1, palavra.Length + 1];
+    letrasProcuradas.Clear();
 
-    for (int letraNaPalavraProcurada = 0; letraNaPalavraProcurada < palavraProcurada.Length; letraNaPalavraProcurada++)
+    for (int i = 1; i < palavraProcurada.Length + 1; i++)
     {
-        for (int letraNaPalavraAtual = 0; letraNaPalavraAtual < palavra.Length; letraNaPalavraAtual++)
+        for (int j = 1; j < palavra.Length + 1; j++)
         {
-            if (!letrasProcuradasNaPalavra.Contains(palavra[letraNaPalavraAtual]))
+            if (!letrasProcuradas.Contains(palavra[j - 1]))
             {
-                if (palavraProcurada[letraNaPalavraProcurada] == palavra[letraNaPalavraAtual])
+                var trechoAnterior = new int[2, palavra.Length + 1];
+                if (palavra[j - 1] == palavraProcurada[i - 1])
                 {
-                    var subsequenciaAnterior = subsequenciaComum[linha - 1, coluna - 1];
-                    subsequenciaComum[linha, coluna] = subsequenciaAnterior + 1;
+                    subsequenciaComum[i, j] = subsequenciaComum[i - 1, j - 1] + 1;
+                    letrasProcuradas.Add(palavra[j - 1]);
                 }
                 else
                 {
-                    var trechoAnterior = Filtro.PegarTrechoDoArray(subsequenciaComum, letraNaPalavraProcurada - 1, letraNaPalavraAtual, letraNaPalavraProcurada, letraNaPalavraAtual - 1);
-                    subsequenciaComum[linha, coluna] = Filtro.EncontrarMaiorValor(trechoAnterior);
+                    var linhaTrecho = 0;
+                    var colunaTrecho = 0;
+
+                    for (int k = i - 1; k < i + 1; k++)
+                    {
+
+                        for (int l = 1; l < palavra.Length + 1; l++)
+                        {
+                            trechoAnterior[linhaTrecho, colunaTrecho] = subsequenciaComum[k, l];
+                            colunaTrecho++;
+                        }
+                        linhaTrecho++;
+                        colunaTrecho = 0;
+                    }
+                    subsequenciaComum[i, j] = Filtro.EncontrarMaiorValor(trechoAnterior);
                 }
-                letrasProcuradasNaPalavra.Add(palavra[letraNaPalavraAtual]);
+            }
+            else
+            {
+                var trechoAnterior = new int [2, palavra.Length + 1];
+                var linhaTrecho = 0;
+                var colunaTrecho = 0;
+
+                for (int k = i - 1; k < i + 1; k++)
+                {
+
+                    for (int l = 1; l < palavra.Length + 1; l++)
+                    {
+                        trechoAnterior[linhaTrecho, colunaTrecho] = subsequenciaComum[k, l];
+                        colunaTrecho++;
+                    }
+                    linhaTrecho++;
+                    colunaTrecho = 0;
+                }
+                subsequenciaComum[i, j] = Filtro.EncontrarMaiorValor(trechoAnterior);
             }
         }
+    }
+
+    var maiorValor = Filtro.EncontrarMaiorValor(subsequenciaComum);
+    if (maiorValor > valorPalavraMaisProxima)
+    {
+        valorPalavraMaisProxima = maiorValor;
+        palavraMaisProxima = palavra;
     }
 }
 

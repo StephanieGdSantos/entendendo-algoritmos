@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace subsequencia_mais_longa.Services
 {
-    internal class Filtro
+    public class Filtro
     {
-        public static int EncontrarMaiorValor(int[] listaDeNumeros)
+        public static int EncontrarMaiorValor(int[,] listaDeNumeros)
         {
-            var maiorNumero = listaDeNumeros.FirstOrDefault();
+            var maiorNumero = listaDeNumeros[0,0];
             foreach (var numero in listaDeNumeros)
             {
                 if (numero > maiorNumero)
@@ -22,18 +22,5 @@ namespace subsequencia_mais_longa.Services
             return maiorNumero;
         }
 
-        public static int[,] PegarTrechoDoArray(int[,] array, int linhaInicio, int colunaInicio, int linhaFinal, int colunaFinal)
-        {
-
-            int[,] trechoDoArray = new int[linhaFinal-linhaInicio, colunaFinal-colunaInicio];
-            for (int i = linhaInicio; i < linhaFinal; i++)
-            {
-                for (int j = colunaInicio; j < colunaFinal; j++)
-                {
-                    trechoDoArray[i, j] = array[i, j];
-                }
-            }
-            return trechoDoArray;
-        }
     }
 }
