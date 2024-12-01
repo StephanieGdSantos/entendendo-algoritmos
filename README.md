@@ -9,4 +9,4 @@ Desta forma, pretendo reproduzir os seguintes algoritmos:
 </br>🗹 Algoritmo de djikstra
 </br>☐ Algoritmo guloso
 </br>🗹 Problema da mochila
-</br>☐ Problema da subsequência comum mais longa
+</br>🗹 Problema da subsequência comum mais longa
