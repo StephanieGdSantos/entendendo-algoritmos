@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("subsequencia_mais_longa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfb079dab85cc992ec095b264e4525161851d00c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7910cd0c8ba83a0cdef5a520ed6034c458884de")]
 [assembly: System.Reflection.AssemblyProductAttribute("subsequencia_mais_longa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("subsequencia_mais_longa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

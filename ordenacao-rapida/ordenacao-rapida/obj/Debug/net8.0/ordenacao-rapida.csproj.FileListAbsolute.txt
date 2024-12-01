@@ -1,0 +1,15 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\bin\Debug\net8.0\ordenacao-rapida.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\bin\Debug\net8.0\ordenacao-rapida.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\bin\Debug\net8.0\ordenacao-rapida.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\bin\Debug\net8.0\ordenacao-rapida.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\bin\Debug\net8.0\ordenacao-rapida.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.sourcelink.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\refint\ordenacao-rapida.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ordenacao-rapida.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\ordenacao-rapida\ordenacao-rapida\obj\Debug\net8.0\ref\ordenacao-rapida.dll

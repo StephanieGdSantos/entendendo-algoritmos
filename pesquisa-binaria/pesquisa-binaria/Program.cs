@@ -1,4 +1,6 @@
-﻿var nomes = new List<string>()
+﻿using System.Security.Cryptography;
+
+var nomes = new List<string>()
 {
     "Alice", "Bruno", "Carla", "Daniel", "Eduarda", "Fábio", "Gabriela", "Hugo",
     "Isabela", "João", "Karen", "Lucas", "Mariana", "Nathan", "Olivia", "Pedro",
@@ -26,28 +28,32 @@ var nomeProcurado = Console.ReadLine();
 
 var nomeEncontrado = "";
 int tamanhoDoArray = nomes.Count;
+int indiceInicioDaLista = 0, indiceFinalDaLista = nomes.Count - 1;
 var tentativasAteEncontrar = 0;
-while (nomeEncontrado != nomeProcurado || nomes.Count == 0)
+bool encontrado = false;
+while (indiceInicioDaLista <= indiceFinalDaLista)
 {
     tentativasAteEncontrar++;
-    tamanhoDoArray = tamanhoDoArray % 2 == 0 ? tamanhoDoArray / 2 : (int)tamanhoDoArray / 2 + 1;
-    nomeEncontrado = nomes[tamanhoDoArray];
+    int meioDoArray = (indiceInicioDaLista + indiceFinalDaLista) / 2;
+    nomeEncontrado = nomes[meioDoArray];
 
-    if (nomeProcurado[0] > nomeEncontrado[0])
+    if (nomeProcurado == nomeEncontrado)
     {
-        nomes = nomes.GetRange(tamanhoDoArray, tamanhoDoArray);
+        encontrado = true;
+        Console.WriteLine($"Nome encontrado: {nomeEncontrado} em {tentativasAteEncontrar} tentativas.");
+        break;
     }
     else if (nomeProcurado[0] < nomeEncontrado[0])
     {
-        nomes = nomes.GetRange(0, tamanhoDoArray);
+        indiceFinalDaLista = meioDoArray - 1;
+    }
+    else
+    {
+        indiceInicioDaLista = meioDoArray + 1;
     }
 }
 
-if (nomeEncontrado != nomeProcurado)
+if (!encontrado)
 {
     Console.WriteLine($"O nome {nomeProcurado} não está na lista.");
-}
-else
-{
-    Console.WriteLine($"Foram necessárias {tentativasAteEncontrar} tentativas até encontrar o nome {nomeProcurado}");
 }
