@@ -4,7 +4,7 @@ Neste repositório, são expostas as resoluções de alguns algoritmos apresenta
 Desta forma, pretendo reproduzir os seguintes algoritmos:
 </br>🗹 Ordenação por seleção
 </br>🗹 Pesquisa binaria
-</br>☐ Ordenação rápida
+</br>🗹 Ordenação rápida
 </br>🗹 Pesquisa em largura
 </br>🗹 Algoritmo de djikstra
 </br>☐ Algoritmo guloso
