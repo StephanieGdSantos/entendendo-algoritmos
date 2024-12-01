@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ordenacao-rapida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7910cd0c8ba83a0cdef5a520ed6034c458884de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f57aaa7854f97b266e3538058c32a53064032c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ordenacao-rapida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ordenacao-rapida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

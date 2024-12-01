@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0F3EBA9-AF93-4E12-BCCC-44B56F42FA12}|ordenacao-rapida\\ordenacao-rapida.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\entendendo-algoritmos\\ordenacao-rapida\\ordenacao-rapida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F3EBA9-AF93-4E12-BCCC-44B56F42FA12}|ordenacao-rapida\\ordenacao-rapida.csproj|solutionrelative:ordenacao-rapida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F3EBA9-AF93-4E12-BCCC-44B56F42FA12}|ordenacao-rapida\\ordenacao-rapida.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\entendendo-algoritmos\\ordenacao-rapida\\ordenacao-rapida\\services\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F3EBA9-AF93-4E12-BCCC-44B56F42FA12}|ordenacao-rapida\\ordenacao-rapida.csproj|solutionrelative:ordenacao-rapida\\services\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordenador.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\ordenacao-rapida\\ordenacao-rapida\\Services\\Ordenador.cs",
+              "RelativeDocumentMoniker": "ordenacao-rapida\\Services\\Ordenador.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\ordenacao-rapida\\ordenacao-rapida\\Services\\Ordenador.cs",
+              "RelativeToolTip": "ordenacao-rapida\\Services\\Ordenador.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:37:25.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "ordenacao-rapida\\Program.cs",
               "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\ordenacao-rapida\\ordenacao-rapida\\Program.cs",
               "RelativeToolTip": "ordenacao-rapida\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T20:56:22.443Z",
               "EditorCaption": ""
