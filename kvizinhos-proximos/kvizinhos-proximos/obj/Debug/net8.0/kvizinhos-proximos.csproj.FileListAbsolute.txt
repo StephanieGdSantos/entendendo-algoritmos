@@ -1,0 +1,15 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\bin\Debug\net8.0\kvizinhos-proximos.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\bin\Debug\net8.0\kvizinhos-proximos.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\bin\Debug\net8.0\kvizinhos-proximos.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\bin\Debug\net8.0\kvizinhos-proximos.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\bin\Debug\net8.0\kvizinhos-proximos.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.sourcelink.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\refint\kvizinhos-proximos.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\kvizinhos-proximos.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\kvizinhos-proximos\kvizinhos-proximos\obj\Debug\net8.0\ref\kvizinhos-proximos.dll

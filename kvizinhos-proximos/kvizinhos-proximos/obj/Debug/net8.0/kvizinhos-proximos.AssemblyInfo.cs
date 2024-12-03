@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kvizinhos-proximos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ee771b443251a95f93593adf54608ef7df71d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3843a0fe2c7b987cbaae55ade8ad6f46c88fe96e")]
 [assembly: System.Reflection.AssemblyProductAttribute("kvizinhos-proximos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kvizinhos-proximos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
