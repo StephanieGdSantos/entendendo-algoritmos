@@ -10,4 +10,4 @@ Desta forma, pretendo reproduzir os seguintes algoritmos:
 </br>☐ Algoritmo guloso
 </br>🗹 Problema da mochila
 </br>🗹 Problema da subsequência comum mais longa
-</br>☐ K-vizinhos mais próximos
+</br>🗹 K-vizinhos mais próximos
