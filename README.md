@@ -7,7 +7,7 @@ Desta forma, pretendo reproduzir os seguintes algoritmos:
 </br>🗹 Ordenação rápida
 </br>🗹 Pesquisa em largura
 </br>🗹 Algoritmo de djikstra
-</br>☐ Algoritmo guloso
+</br>🗹 Algoritmo guloso
 </br>🗹 Problema da mochila
 </br>🗹 Problema da subsequência comum mais longa
 </br>🗹 K-vizinhos mais próximos
