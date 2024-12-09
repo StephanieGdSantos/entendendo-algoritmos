@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5DB4432-9BAD-4A5E-AA33-569BE2A74319}|programacao-dinamica\\programacao-dinamica.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DB4432-9BAD-4A5E-AA33-569BE2A74319}|programacao-dinamica\\programacao-dinamica.csproj|solutionrelative:programacao-dinamica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5DB4432-9BAD-4A5E-AA33-569BE2A74319}|programacao-dinamica\\programacao-dinamica.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\services\\seletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DB4432-9BAD-4A5E-AA33-569BE2A74319}|programacao-dinamica\\programacao-dinamica.csproj|solutionrelative:programacao-dinamica\\services\\seletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB4432-9BAD-4A5E-AA33-569BE2A74319}|programacao-dinamica\\programacao-dinamica.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB4432-9BAD-4A5E-AA33-569BE2A74319}|programacao-dinamica\\programacao-dinamica.csproj|solutionrelative:programacao-dinamica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,25 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Seletor.cs",
               "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\Services\\Seletor.cs",
               "RelativeDocumentMoniker": "programacao-dinamica\\Services\\Seletor.cs",
               "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\Services\\Seletor.cs",
               "RelativeToolTip": "programacao-dinamica\\Services\\Seletor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T19:26:48.378Z"
+              "WhenOpened": "2024-11-15T19:26:48.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\Program.cs",
               "RelativeDocumentMoniker": "programacao-dinamica\\Program.cs",
               "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\entendendo-algoritmos\\programacao-dinamica\\programacao-dinamica\\Program.cs",
               "RelativeToolTip": "programacao-dinamica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T22:40:01.658Z",
               "EditorCaption": ""

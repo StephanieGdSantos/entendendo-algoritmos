@@ -12,8 +12,11 @@ var itens = new List<Item>()
     new Item { nome = "Câmera", peso = 1, importancia = 6 }
 };
 
+Console.Write("A sua mochila tem capacidade para carregar quantos kg? ");
+var capacidadeDaMochila = int.Parse(Console.ReadLine());
+
 var seletor = new Seletor();
-var itensQueDevemSerLevados = seletor.SelecionarMelhoresItens(itens);
+var itensQueDevemSerLevados = seletor.SelecionarMelhoresItens(itens, capacidadeDaMochila);
 
 Console.WriteLine("Seria melhor você levar:");
 foreach (var item in itensQueDevemSerLevados)
