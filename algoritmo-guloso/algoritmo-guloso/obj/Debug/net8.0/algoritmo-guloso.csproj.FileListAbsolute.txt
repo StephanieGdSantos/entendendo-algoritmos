@@ -1,0 +1,15 @@
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\bin\Debug\net8.0\algoritmo-guloso.exe
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\bin\Debug\net8.0\algoritmo-guloso.deps.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\bin\Debug\net8.0\algoritmo-guloso.runtimeconfig.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\bin\Debug\net8.0\algoritmo-guloso.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\bin\Debug\net8.0\algoritmo-guloso.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.AssemblyInfoInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.AssemblyInfo.cs
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.sourcelink.json
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\refint\algoritmo-guloso.dll
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.pdb
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\algoritmo-guloso.genruntimeconfig.cache
+C:\Users\Stephanie Gomes\Desktop\Stephanie\Estudos\C#\entendendo-algoritmos\algoritmo-guloso\algoritmo-guloso\obj\Debug\net8.0\ref\algoritmo-guloso.dll

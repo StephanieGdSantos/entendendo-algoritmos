@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "algoritmo-guloso/1.0.0": {
+        "runtime": {
+          "algoritmo-guloso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritmo-guloso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
