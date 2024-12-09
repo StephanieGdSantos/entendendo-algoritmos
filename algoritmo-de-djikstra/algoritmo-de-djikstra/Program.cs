@@ -1,4 +1,5 @@
-﻿using System.Runtime.ConstrainedExecution;
+﻿using System.Linq;
+using System.Runtime.ConstrainedExecution;
 
 var lugares = new Dictionary<string, Dictionary<string, int>>
     {
@@ -47,10 +48,9 @@ var partida = Console.ReadLine();
 Console.Write("Escolha onde quer chegar (parque, casa, padaria, ponto de ônibus, mercado, avenida, shopping): ");
 var chegada = Console.ReadLine();
 
-Dictionary<string, int> BuscarCaminhoMaisRapido(Dictionary<string, Dictionary<string, int>> lugares, string partida)
+Dictionary<string, int> BuscarCaminhoMaisRapido(Dictionary<string, Dictionary<string, int>> lugares, string partida, string chegada)
 {
-    Dictionary<string, int>? vizinhos;
-    var _ = lugares[partida];
+    Dictionary<string, int>? vizinhosDosPrimeirosVizinhos;
     var primeirosVizinhos = lugares[partida];
     var caminhos = new List<Dictionary<string, int>>();
     string? lugarAtual;
@@ -58,27 +58,19 @@ Dictionary<string, int> BuscarCaminhoMaisRapido(Dictionary<string, Dictionary<st
     {
         var caminhoMaisBarato = new Dictionary<string, int>();
         lugarAtual = primeiroVizinho;
-        vizinhos = lugares[primeiroVizinho];
+        vizinhosDosPrimeirosVizinhos = lugares[primeiroVizinho];
         caminhoMaisBarato.Add(primeiroVizinho, lugares[partida][primeiroVizinho]);
-        var lugarMaisBarato = lugares[primeiroVizinho].Keys.FirstOrDefault();
-        var valorLugarMaisBarato = lugares[primeiroVizinho].Values.FirstOrDefault();
+
         while (lugarAtual != chegada)
         {
-            lugarMaisBarato = vizinhos.Keys.FirstOrDefault();
-            valorLugarMaisBarato = vizinhos.Values.FirstOrDefault();
-            foreach (var vizinhoDoLugarAtual in vizinhos.Keys)
-            {
-                var valorDoVizinho = vizinhos[vizinhoDoLugarAtual];
-                if (valorDoVizinho < valorLugarMaisBarato)
-                {
-                    lugarMaisBarato = vizinhoDoLugarAtual;
-                    valorLugarMaisBarato = valorDoVizinho;
-                }
-            }
-            caminhoMaisBarato.Add(lugarMaisBarato, valorLugarMaisBarato);
-            lugarAtual = lugarMaisBarato;
-            vizinhos = lugares[lugarAtual];
-            if (vizinhos.Count == 0 && lugarAtual != chegada)
+            var lugarMaisBarato = vizinhosDosPrimeirosVizinhos
+                .OrderBy(vizinho => vizinho.Value)
+                .FirstOrDefault();
+
+            caminhoMaisBarato.Add(lugarMaisBarato.Key, lugarMaisBarato.Value);
+            lugarAtual = lugarMaisBarato.Key;
+            vizinhosDosPrimeirosVizinhos = lugares[lugarAtual];
+            if (vizinhosDosPrimeirosVizinhos.Count == 0 && lugarAtual != chegada)
             {
                 lugarAtual = chegada;
                 caminhoMaisBarato.Clear();
@@ -87,28 +79,16 @@ Dictionary<string, int> BuscarCaminhoMaisRapido(Dictionary<string, Dictionary<st
         if (caminhoMaisBarato.Count != 0) caminhos.Add(caminhoMaisBarato);
     }
 
-    var valorMenorCaminho = 1000000;
-    var menorCaminho = new Dictionary<string, int>();
-    var somaCaminho = 0;
-    foreach (var rota in caminhos)
-    {
-        foreach (var valor in rota)
-        {
-            somaCaminho += valor.Value;
-        }
-        if (somaCaminho < valorMenorCaminho)
-        {
-            valorMenorCaminho = somaCaminho;
-            menorCaminho = rota;
-        }
-        somaCaminho = 0;
-    }
+    var menorCaminho = caminhos
+        .OrderBy(rota => rota.Values
+        .Sum())
+        .FirstOrDefault();
 
     return menorCaminho;
 }
 
-var caminhoMaisRapido = BuscarCaminhoMaisRapido(lugares, partida);
-if (caminhoMaisRapido.Count != 0)
+var caminhoMaisRapido = BuscarCaminhoMaisRapido(lugares, partida, chegada);
+if (caminhoMaisRapido != null)
 {
     Console.WriteLine("-------------------------------------------------");
     Console.WriteLine($"[ CAMINHO MAIS RÁPIDO: SAINDO DE {partida.ToUpper()} PARA {chegada.ToUpper()} ]");
